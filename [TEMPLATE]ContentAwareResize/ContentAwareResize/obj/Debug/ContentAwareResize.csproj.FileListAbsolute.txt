@@ -1,0 +1,20 @@
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\mohamed\Ibraa\3 cs\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\mohamed\Ibraa\3 cs\First Term\Algo\Task\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
